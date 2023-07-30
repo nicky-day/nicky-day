@@ -24,15 +24,6 @@
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/react-F7DF1E?style=flat&logo=61DAFB&logoColor=white"/>
 </div>
 
-<br/>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicky-day&show_icons=true&theme=gotham">
-</div>
-
-<div align="right>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicky-day&theme=gotham">
-</div>
-
 <div align="center">
   <h3>Connect With me </h3>
   <a href="mailto:jeongseonju15@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
