@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:9966FF,100:FFCCCC&height=300&section=header&text=Nicky&fontSize=90&animation=fadeIn&fontColor=666699&stroke=00FF00)
 
 <h4>Hello⚡️ I'm a backend developer from Seoul. 
-Today as well, I am having fun coding with my macbook.💻<h4></h4>
+Today as well, I am having fun coding with my macbook💻 and coffee☕️<h4></h4>
 
 
 <h2>Connect With me</h2>
