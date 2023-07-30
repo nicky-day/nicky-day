@@ -12,8 +12,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicky-day&theme=gotham">
   <img src="https://github-readme-stats.vercel.app/api?username=nicky-day&show_icons=true&theme=gotham">
-<br/>
-   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsj3282&color=dark)](https://velog.io/@jsj3282)
+  <img src="https://velog-readme-stats.vercel.app/api?name=jsj3282&color=dark">
 </div>
 
   <div>
