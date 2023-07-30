@@ -3,11 +3,11 @@
 #### Hello⚡️ I'm a backend developer from Seoul. Today as well, I am having fun coding with my macbook💻 and coffee☕️
 
 ## Tech Blog
-<a href="https://velog.io/@jsj3282"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jsj3282"/></a>
+<a href="https://velog.io/@jsj3282"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@jsj3282"/></a>
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>
 
 
 ## Connect With me
