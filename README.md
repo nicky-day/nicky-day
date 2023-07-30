@@ -10,8 +10,8 @@
   <a href="https://github.com/nicky-day"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnicky-day&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
   <a href="https://velog.io/@jsj3282"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@jsj3282"/></a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicky-day&theme=gotham">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicky-day&show_icons=true&theme=gotham">
+  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicky-day&theme=gotham">
+  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=nicky-day&show_icons=true&theme=gotham">
   <img src="https://velog-readme-stats.vercel.app/api?name=jsj3282&color=dark">
 </div>
 
