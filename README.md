@@ -1,5 +1,5 @@
 <div id="introduction">
-  <h2>Nicky's GitHub</h2>
+  <h2>Nicky's GitHub⚡️</h2>
   <p id="title">Hello👋 I'm a backend developer from Seoul.<br/>
     Today as well, I am having fun coding with my macbook and coffee!☕️
   </p>
