@@ -30,6 +30,10 @@
 </div>
 
 <div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsj3282"
+</div>
+
+<div>
   <h3>Connect With me </h3>
   <a href="mailto:jeongseonju15@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.instagram.com/de_sj_awa"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
