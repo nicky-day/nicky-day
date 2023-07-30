@@ -25,16 +25,15 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2469ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white"/> <br/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-    <br/>
-    <br/>
 </div>
 
 <div>
+  <h3>Algorithm💡</h3>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsj3282"
 </div>
 
 <div>
-  <h3>Connect With me </h3>
+  <h3>Connect With me📥</h3>
   <a href="mailto:jeongseonju15@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.instagram.com/de_sj_awa"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://twitter.com/nicky_daynews"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
