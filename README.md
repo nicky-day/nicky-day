@@ -8,11 +8,7 @@
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Vimeo&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-447941?style=flat-square&logo=Vimeo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Vimeo&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Vimeo&logoColor=white"/>
-<img src="https://img.shields.io/badge/jetbrains-000000?style=flat-square&logo=Vimeo&logoColor=white"/>
+
 
 ## Connect With me
 <a href="mailto:jeongseonju15@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
